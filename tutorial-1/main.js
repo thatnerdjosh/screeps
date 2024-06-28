@@ -1,4 +1,4 @@
-import { harvester } from './roles';
+import { harvester } from '../shared/roles';
 
 export function loop() {
     // For each creep
