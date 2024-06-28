@@ -1,0 +1,10 @@
+{
+  "source": "main.js",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

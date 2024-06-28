@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "publish": "cd $BRANCH && npm run build && cd .. && node upload.js $BRANCH"
+    }
+}

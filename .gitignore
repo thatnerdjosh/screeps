@@ -1,0 +1,49 @@
+# Cache directory
+.parcel-cache
+
+# Build output directory (common names)
+dist
+build
+
+# Dependency lock files (can vary depending on package manager)
+package-lock.json
+yarn.lock
+
+# Optional: Editor temporary files (adjust based on your editor)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: Testing coverage files
+coverage/
+
+# Optional: IDE specific files
+# Consult your IDE's documentation for specific file types to ignore.
+
+# Optional: OS specific files
+# macOS only
+.DS_Store
+
+# Examples of editor temporary/cache files (adjust as needed)
+*.swo
+*.swo2
+
+# Temporary npm test output
+npm-debug.log
+
+# Typical temporary file extensions
+*.tmp
+*.temp
+*~
+
+# Exclude compiled source maps
+*.map
+
+# Generated documentation
+docs/
+
+# Exclude generated type definitions
+types/
+
+config.json
